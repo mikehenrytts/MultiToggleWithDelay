@@ -24,3 +24,4 @@ SSH into your Raspberry Pi:
 cd ~/craftbeerpi4/modules
 git clone https://github.com/mikehenrytts/MultiToggleWithDelay.git
 sudo systemctl restart cbpi
+https://github.com/mikehenrytts/MultiToggleWithDelay/archive/main.zip
