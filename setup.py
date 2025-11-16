@@ -11,7 +11,7 @@ setup(name='cbpi4-MultiToggleWithDelay',
       description='CraftBeerPi4 step plugin: multi-actor toggle with per-actor delays',
       author='Mike Henry',
       author_email='mikehenrytts"yahoo.com',
-      url='https://github.com/PiBrewing/cbpi4-pt100x',
+      url='https://github.com/mikehenrytts/cbpi4-MultiToggleWithDelay',
       include_package_data=True,
       package_data={
         # If any package contains *.txt or *.rst files, include them:
