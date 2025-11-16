@@ -1,6 +1,7 @@
 import asyncio
 
-from cbpi.api import *   # brings in CBPiStep, parameters, Property, etc.
+from cbpi.api import CBPiStep, Property, parameters
+from cbpi.api.timer import Timer
 
 
 
